@@ -1,1 +1,6 @@
-For configuring git in terminal!
+# CLI Todo List App
+
+It's just another todo app 
+
+With some objectives if they work!
+
